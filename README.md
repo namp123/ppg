@@ -1,2 +1,2 @@
 # ppg
-A git hub repository for our reva hackfest project.
+A git hub repository for our team's reva hackfest project.
